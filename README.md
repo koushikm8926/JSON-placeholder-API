@@ -1,4 +1,4 @@
-# Tesla Website Application
+# JSON-placeholder-API
 > Short blurb about what your product does.
 
 [![NPM Version][npm-image]][npm-url]
@@ -27,8 +27,40 @@ Describe how to install all development dependencies and how to run an automated
 npm install -g
 ```
 ```sh
+npm install @emotion/styled
+```
+```sh
+npm install @emotion/native
+```
+```sh
+npm install react-native-web
+```
+```sh
+npm install react-native-axios
+```
+```sh
+npm install axios
+```
+```sh
+npm install @mui/icons-material
+```
+
+
+
+
+
+
+
+
+```sh
 expo start
 ```
+## Demo
+
+
+
+https://user-images.githubusercontent.com/84120351/222879525-19c18bea-c7c1-4ea6-a0e1-c1051a36f6ce.mp4
+
 
 
 
